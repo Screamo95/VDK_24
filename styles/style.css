@@ -1,0 +1,17 @@
+/* Global */
+
+:root {
+  --in_bold: inter_bold;
+  --in_regular: inter_regular;
+  --mont_bold: mont_bold;
+  --mont_medium: mont_medium;
+  --mont_regular: mont_regular;
+  --mont_semiBold: mont_semiBold;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  font-family: var(--mont_regular);
+}

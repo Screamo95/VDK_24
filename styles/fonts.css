@@ -1,0 +1,24 @@
+@font-face {
+  font-family: inter_bold;
+  src: url(../fonts/Inter_18pt-Bold.woff);
+}
+@font-face {
+  font-family: inter_regular;
+  src: url(../fonts/Inter_18pt-Regular.woff);
+}
+@font-face {
+  font-family: mont_bold;
+  src: url(../fonts/Montserrat-Bold.woff);
+}
+@font-face {
+  font-family: mont_medium;
+  src: url(../fonts/Montserrat-Medium.woff);
+}
+@font-face {
+  font-family: mont_regular;
+  src: url(../fonts/Montserrat-Regular.woff);
+}
+@font-face {
+  font-family: mont_semiBold;
+  src: url(../fonts/Montserrat-SemiBold.woff);
+}
